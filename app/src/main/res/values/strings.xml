@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BonusExercise</string>
+    <string name="name">Nika Malone</string>
+    <string name="role">Student</string>
+    <string name="recent">Recent</string>
+    <string name="design">design</string>
+    <string name="art">art</string>
+    <string name="economy">economy</string>
+    <string name="featured_courses">Featured courses</string>
+    <string name="see_all">See all</string>
+    <string name="_12_lessons">12 lessons</string>
+    <string name="math">Math</string>
+    <string name="science">Science</string>
+    <string name="languages">Languages</string>
+    <string name="_9_lessons">9 lessons</string>
+    <string name="ongoing">Ongoing</string>
+</resources>
